@@ -16,6 +16,6 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing frequencyBodyAcc-XYZ, frequencyBodyAccJerk-XYZ, frequencyBodyGyro-XYZ, frequencyBodyAccJerkMag, frequencyBodyGyroMag, frequencyBodyGyroJerkMag. 
 
 
-Row 1~6 is each activity(1->WALKING, 2->WALKING_UPSTAIRS, 3->WALKING_DOWNSTAIRS, 4->SITTING, 5->STANDING, 6->LAYING).
-Row 7~36 is each subject(7->subject_1, 8->subject_2, .... 36->subject_30)
+Row 1-6 is each activity(1->WALKING, 2->WALKING_UPSTAIRS, 3->WALKING_DOWNSTAIRS, 4->SITTING, 5->STANDING, 6->LAYING).
+Row 7-36 is each subject(7->subject_1, 8->subject_2, .... 36->subject_30)
 
