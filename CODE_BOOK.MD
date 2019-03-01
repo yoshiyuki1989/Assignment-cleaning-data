@@ -5,6 +5,7 @@
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ##Variables(Columns' names) are the followings.
+###
  [1] "activityID"                              "subject"                                
  [3] "timeBodyAcc-mean()-X"                    "timeBodyAcc-mean()-Y"                   
  [5] "timeBodyAcc-mean()-Z"                    "timeBodyAcc-std()-X"                    
